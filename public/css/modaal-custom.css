@@ -1,0 +1,13 @@
+/* prevent z-index conflict with Divi Navigation */
+.modaal-overlay {
+	z-index: 999999;
+}
+
+.modaal-wrapper {
+	z-index: 9999999;
+}
+
+/* hide modal content on page */
+[id^="modaal-inline-content"] {
+	display: none;
+}
