@@ -1,5 +1,4 @@
 jQuery(document).ready(function( $ ) {
-	$('[id^="modaal-inline-content"]').css("display", "none");
 
 	$('.modaal-inline-trigger, .modaal-inline-trigger-wrapper a').modaal();
 

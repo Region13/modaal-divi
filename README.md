@@ -27,13 +27,17 @@ Modaal for Divi initalializes the following triggers:
 
 In general, triggers can be configured with any link element in two ways: 
 
-1. Add the trigger class to the link element:   
-``` <a href="#modaal-inline-content" class="modaal-video-trigger">Show</a>```
+1. Add the trigger class to the link element:
+```html 
+<a href="#modaal-inline-content" class="modaal-video-trigger">Show</a>
+```
 
 2. Add the trigger-wrapper class to a parent of the link element:  
-	```<div class="modaal-video-trigger-wrapper">   
+	```html
+	<div class="modaal-video-trigger-wrapper">   
 		<a href="#modaal-inline-content">Show</a>
-	</div>```
+	</div>
+	```
 
 Instructions for creating triggers with the Divi Builder are included below. 
 
