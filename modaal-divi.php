@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: Modaal for Divi
- * Plugin URI:  http://www.humaan.com/modaal/
- * Description: WCAG 2.0 Level AA accessible modal window plugin by Humaan, adapted as WordPress Plugin for Divi theme
+ * Plugin URI:  https://github.com/Region13/modaal-divi
+ * Description: WCAG 2.0 Level AA accessible modal window plugin by Humaan, adapted as WordPress Plugin for Divi theme. Visit Plugin site for usage instructions.
  * Version:     1.0.0
  * Author:      ESC Region 13
  */

@@ -15,7 +15,7 @@ Modaal for Divi initalializes the following triggers:
 
     $('.modaal-inline-trigger, .modaal-inline-trigger-wrapper a').modaal({
     	type: 'inline'
-    	});
+    });
 
 	$('.modaal-video-trigger, .modaal-video-trigger-wrapper a').modaal({
 		type: 'video'
@@ -29,12 +29,12 @@ In general, triggers can be configured with any link element in two ways:
 
 1. Add the trigger class to the link element:
 ```html 
-<a href="#modaal-inline-content" class="modaal-video-trigger">Show</a>
+<a href="#modaal-inline-content" class="modaal-inline-trigger">Show</a>
 ```
 
 2. Add the trigger-wrapper class to a parent of the link element:  
 	```html
-	<div class="modaal-video-trigger-wrapper">   
+	<div class="modaal-inline-trigger-wrapper">   
 		<a href="#modaal-inline-content">Show</a>
 	</div>
 	```
