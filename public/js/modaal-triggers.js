@@ -9,7 +9,5 @@ jQuery(document).ready(function( $ ) {
 	$('.modaal-image-trigger, .modaal-image-trigger-wrapper a').modaal({
 		type: 'image'
 	});
-
-  
 	
 });

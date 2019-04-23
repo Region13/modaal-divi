@@ -45,10 +45,11 @@ Instructions for creating triggers with the Divi Builder are included below.
 
 #### Embed URLs
 
-YouTube and Vimeo embeds are supported. For both video hosts, ensure the embed URL is used. This can be found by selecting 'Share', then clicking 'Embed'. The correct URL is inside the `src=""` attribute.
+Wistia, YouTube, Vimeo embeds are supported with use of the correct embed URL. This can be found by selecting 'Share', then clicking 'Embed'. The correct URL is inside the `src=""` attribute.
 
-- YouTube embed URL example: `https://www.youtube.com/embed/XXXXXXXXXXX` where the 11 digit ID at the end of the URL is your unique video ID.  
-- Vimeo embed URL example: `https://player.vimeo.com/video/XXXXXXXXX` where the ID at the end of the URL is your unique video ID.
+- YouTube embed URL example: `https://www.youtube.com/embed/XXXXXXXXXXX`   
+- Vimeo embed URL example: `https://player.vimeo.com/video/XXXXXXXXX` 
+- Wistia embed URL example: `https://fast.wistia.net/embed/iframe/XXXXXXXXXX/`
 
 #### Video Modal Triggers in a Divi Image Module
 
